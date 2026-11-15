@@ -1,5 +1,5 @@
 Test with python3 W09_Lab_selfcheck.py --seed 10
-or python3 W09_Lab_selfcheck.py --seed 10
+or sudo -E python3 W09_Lab_selfcheck.py --seed 10
 
 From original terminal run with sudo while images running:
 

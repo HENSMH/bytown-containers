@@ -1,0 +1,6 @@
+Q1: The file gets permantly removed, due to not having a volume to save to. 
+Q2: The web service had no published port because the compose stack only routes internally to the container. 
+Q3: An image is a read only copy, which a container is running an instance copy of that image. 
+
+
+
